@@ -1,7 +1,7 @@
 # Evaluation of machine learning techniques for football score prediction in MLS
 
-Gabriel Masella \[SM3800048\], M.Sc student of "Data Science and AI", *University of Trieste*, Italy
-Course of A.A. $2023$/$2024$ - Introduction to Machine Learning  
+Gabriel Masella \[SM3800048\], M.Sc student of "Data Science and AI", *University of Trieste*, Italy  
+Course of A.A. $2023/2024$ - Introduction to Machine Learning  
 25th June 2024
 
 ## Problem statement
