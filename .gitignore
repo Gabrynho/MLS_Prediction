@@ -164,3 +164,4 @@ cython_debug/
 # Other
 SerieA2024/
 intro_to_ml.*
+.DS_Store
